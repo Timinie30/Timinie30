@@ -1,2 +1,1 @@
-- Hi, I'm Timmy! Nice to meet you!
-- If you need a project buddy, I'm the one for you! 
+hi
